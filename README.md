@@ -1,3 +1,2 @@
-# code-09-09
-Contains the SpeedScore Repo updated with an About Box and TestCafe test fixture
-This repo serves as the starting point for Chapter 6.
+# code-09-14
+The SpeedScore project at the end of Chapter 7, in which we saved user data records (speedgolf rounds) to localStorage.
